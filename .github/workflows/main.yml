@@ -34,8 +34,6 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-        
-jobs:
   job_1:
     name: Add 3 and 7
     runs-on: ubuntu-latest
